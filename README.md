@@ -1,2 +1,2 @@
-# nicholaslivingstone.github.io
-Github Pages Site
+# Nicholas Livingstone
+## UNM Undergraduate Student
