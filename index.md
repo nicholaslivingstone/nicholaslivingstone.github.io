@@ -1,6 +1,4 @@
-![A picture of me](images/avatar.jpg)
-# Nicholas Livingstone 
-###### Undergrad Computer Science - University of New Mexico, Albuqueruque
+## Welcome to my digital billboard
 
 Hi I'm Nick. I'm a Senior at the University of New Mexico, Albuquerque studying computer science. I have an Associate of Science from Riverside City College, California. 
 I'm a detail focused individual that dedicates time to fully understanding the frameworks and systems I'm using before I write code. My academic interests lie in numerical computing, machine learning, and game development.
@@ -15,9 +13,6 @@ Outside of school, I enjoy rock climbing, cycling, and board games.
 * [Game Development (Unity Engine/C#)](https://nlivingstone.itch.io/) - Link to my itch.io page containing games I've developed.
 * [Book Serial Number Cleanser (Python)]() - Created for Parish Memorial Library as a method to cleanup serial numbers which were inconsistently formatted. Utilizes Pandas library and Regex. 
 * [Joshua Tree Brochure (Adobe Illustrator)](https://nicholaslivingstone.github.io/files/JTree_Brochure.pdf) - A Climbing focused brochure and short geological history of Joshua Tree National Park
- 
-
 #### Contact
-* __[My GitHub Page](https://github.com/nicholaslivingstone)__ 
 * Email: nlivingsto@unm.edu
 * Twitter: [@elmolivingstone](https://twitter.com/elmolivingstone)
