@@ -9,10 +9,10 @@ Outside of school, I enjoy rock climbing, cycling, and the great outdoors.
 ### Some of my work 
 * *Title (Relevant Systems) - Description*
 * [Analysis of Different types of Numerical Integration Methods (Fortran, Python, LaTex)](https://github.com/nicholaslivingstone/CS471-HW3) - A comparative analysis of Composite Trapezoidal and Guass Quadtrature numerical integration. 
-* [Using Numerical Integration to Solve Systems of ODEs (MATLAB)]() - A report which discusses the effectiveness of Numerical Integration for solving systems of Ordinary Differential Equations
-* [Wine Colors (R)]() - A Statistical summary of wine colors from UCIs ML Repository 
+* [Using Numerical Integration to Solve Systems of ODEs (MATLAB)](https://nicholaslivingstone.github.io/files/Integration_SystemsODEs.pdf) - A report which discusses the effectiveness of Numerical Integration for solving systems of Ordinary Differential Equations
+* [Wine Colors (R)](https://nicholaslivingstone.github.io/files/Wine_Colors_Stats.pdf) - A Statistical summary of wine colors from UCIs ML Repository 
 * [Book Serial Number Cleanser (Python)]() - Created for Parish Memorial Library as a method to cleanup serial numbers which were inconsistently formatted. Utilizes Pandas library and Regex. 
-* [Joshua Tree Brochure (Adobe Illustrator)]() - A Climbing focused brochure and short geological history of Joshua Tree National Park
+* [Joshua Tree Brochure (Adobe Illustrator)](https://nicholaslivingstone.github.io/files/JTree_Brochure.pdf) - A Climbing focused brochure and short geological history of Joshua Tree National Park
  
 
 #### Links
