@@ -11,7 +11,8 @@ Outside of school, I enjoy rock climbing, cycling, and board games.
     * ML Models designed and implemented by me 
 
 ### Previous Work
-* [Analysis of Different types of Numerical Integration Methods (Fortran, Python, LaTex)](https://github.com/nicholaslivingstone/CS471-HW3/blob/master/report/hw3%20report.pdf) - A comparative analysis of Composite Trapezoidal and Guass Quadtrature numerical integration. [Link to Repo w/ Code.](https://github.com/nicholaslivingstone/CS471-HW3) 
+* [Analysis of Different types of Numerical Integration Methods (Fortran, Python, LaTex)](https://github.com/nicholaslivingstone/CS471-HW3/blob/master/report/hw3%20report.pdf) - A comparative analysis of Composite Trapezoidal and Guass Quadtrature numerical integration. 
+    * [Link to Repo with Code.](https://github.com/nicholaslivingstone/CS471-HW3) 
 * [Using Numerical Integration to Solve Systems of ODEs (MATLAB)](https://nicholaslivingstone.github.io/files/Integration_SystemsODEs.pdf) - A report which discusses the effectiveness of Numerical Integration for solving systems of Ordinary Differential Equations
 * [Wine Colors (R)](https://nicholaslivingstone.github.io/files/Wine_Colors_Stats.pdf) - A Statistical summary of wine colors from UCIs ML Repository 
 * [Distributed Auction Houses (Java/JavaFX)](https://github.com/nicholaslivingstone/CS351-Distributed-Auction) - An auction house system containing a bank server, auction houses, and an auction client. Implements multithreading, networking, and a GUI through JavaFX.
