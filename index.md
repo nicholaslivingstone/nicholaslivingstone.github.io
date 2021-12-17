@@ -5,10 +5,13 @@ I'm a detail focused individual that dedicates time to fully understanding the f
 Outside of school, I enjoy rock climbing, cycling, and board games. 
 
 ### Currently Under Development
+* [Clustering on Clusters (Parallel Algorithms, ML, Supercomputers)](https://github.com/nicholaslivingstone/parallel-kmeans) - An analysis and implementation of parallel k-means. Conducted on UNM CARC Supercomputers
+    * [Link to full report](https://github.com/nicholaslivingstone/parallel-kmeans/blob/main/Clustering_on_Clusters.pdf)
 * [UNM CS Deptartment Flask Monitoring Site (Python, Flask, Javscript)](https://github.com/nicholaslivingstone/unmcs-monitoring) - A flask website to monitor and visualize the status of UNM's CS Department Machines.
-* [Race and Gentrification within the US (Python, Machine Learning)](https://nicholaslivingstone.github.io/files/Gentrification_Analysis.pdf) - An analysis on US Census data looking at whether there is a correlation between racial demographics and gentrification of an area using machine learning techniques. 
+* [Race and Gentrification within the US (Python, Machine Learning)](https://nicholaslivingstone.github.io/files/Gentrification_Final_Report.pdf) - An analysis on US Census data looking at whether there is a correlation between racial demographics and gentrification of an area using machine learning techniques. 
+    * [Poster](https://nicholaslivingstone.github.io/files/Gentrification_Analysis.pdf)
     * [Google Collab containing code](https://colab.research.google.com/drive/1DscZSE1RLAhDQOPyrwwnQbVAi7OKuSHS?usp=sharing)
-    * ML Models designed and implemented by me 
+    * ML Models designed and implemented by me
 
 ### Previous Work
 * [Analysis of Different types of Numerical Integration Methods (Fortran, Python, LaTex)](https://github.com/nicholaslivingstone/CS471-HW3/blob/master/report/hw3%20report.pdf) - A comparative analysis of Composite Trapezoidal and Guass Quadtrature numerical integration. 
