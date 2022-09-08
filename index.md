@@ -16,7 +16,6 @@ I have a Bachelor's in Computer Science with a Minor in Math from the University
 * [Race and Gentrification within the US (Python, Machine Learning)](https://nicholaslivingstone.github.io/files/Gentrification_Final_Report.pdf) - An analysis of US Census data looking at whether there is a correlation between racial demographics and gentrification of an area using machine learning techniques. 
     * [Poster](https://nicholaslivingstone.github.io/files/Gentrification_Analysis.pdf)
     * [Google Collab containing code](https://colab.research.google.com/drive/1DscZSE1RLAhDQOPyrwwnQbVAi7OKuSHS?usp=sharing)
-    * ML Models designed and implemented by me
 * [[PROTOTYPE] CS Deptartment Flask Monitoring Site (Python, Flask, Javscript)](https://github.com/nicholaslivingstone/unmcs-monitoring) - A prototype of a flask website to monitor and visualize the status of UNM's CS Department Machines.
 * [Analysis of Different types of Numerical Integration Methods (Fortran, Python, LaTex)](https://github.com/nicholaslivingstone/CS471-HW3/blob/master/report/hw3%20report.pdf) - A comparative analysis of Composite Trapezoidal and Guass Quadtrature numerical integration. 
     * [Link to Repo with Code.](https://github.com/nicholaslivingstone/CS471-HW3) 
