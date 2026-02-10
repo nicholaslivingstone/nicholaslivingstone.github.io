@@ -11,6 +11,8 @@ Outside of my career, you'll find me rock climbing, playing 6-hour board games, 
 I have a Bachelor's in Computer Science with a Minor in Math from the University of New Mexico, as well as an Associate of Science from Riverside City College, California. 
 
 ## Examples of my work
+* [PPO for Santorini (2025)](https://github.com/nicholaslivingstone/nicholaslivingstone.github.io/blob/faf63895221e7ecc0984cb139f78650ae96494e4/files/PPO%20for%20Santorini.pdf) - Implementation of PPO and design of a reward structure for the board game *Santorini*. 
+* [Song Genre Prediction Using Neural Networks (2024)](https://github.com/nicholaslivingstone/nicholaslivingstone.github.io/blob/faf63895221e7ecc0984cb139f78650ae96494e4/files/Song%20Genre%20Prediction.pdf) - Neural Network Architectures and Feature extraction for song genre prediction
 * [Clustering on Clusters (MPI, ML, Supercomputers, Python)](https://github.com/nicholaslivingstone/parallel-kmeans) - An analysis and implementation of parallel k-means. Conducted on UNM CARC Supercomputers
     * [Link to full report](https://github.com/nicholaslivingstone/parallel-kmeans/blob/main/Clustering_on_Clusters.pdf)
 * [Race and Gentrification within the US (Python, Machine Learning)](https://nicholaslivingstone.github.io/files/Gentrification_Final_Report.pdf) - An analysis of US Census data looking at whether there is a correlation between racial demographics and gentrification of an area using machine learning techniques. 
