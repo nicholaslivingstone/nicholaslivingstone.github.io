@@ -1,6 +1,4 @@
-# My Digital Billboard
-
-## About Me 
+# About Me
 Hi I'm Nick! I'm a Computer Science PhD student at the University of New Mexico whose research focuses on bad data in machine learning. I currently work on ML-based HPC performance models as part of the DOE funded [COMPASS](https://compass.unm.edu/) project, but have worked in other areas of applied ML including chemical spectra and biomedical. 
 
 I'm a detail-focused individual that dedicates time to fully understanding the frameworks and systems I'm using before I write software. I value writing clean code that was made with the same level of love and care my mom used to make my school lunches with. I'm interested in the ethical applications of AI such as complex systems, health care, and problems that humans can't solve alone. 
@@ -27,4 +25,4 @@ Outside of my career, you'll find me outside rock climbing, playing board games,
 
 ### Contact
 * Email: nicholaselmolivingstone@gmail.com
-* Twitter: [@elmolivingstone](https://twitter.com/elmolivingstone)
+* GitHub: https://github.com/nicholaslivingstone
